@@ -11,6 +11,7 @@ namespace githubtest
         static void Main(string[] args)
         {
             Console.WriteLine("привет челик");
+            Console.WriteLine("эшкере 67");
             Console.ReadKey();
         }
     }
